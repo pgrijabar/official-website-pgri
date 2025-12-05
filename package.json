@@ -16,7 +16,8 @@
 		"@opennextjs/cloudflare": "^1.14.2",
 		"next": "15.5.7",
 		"react": "19.1.2",
-		"react-dom": "19.1.2"
+		"react-dom": "19.1.2",
+		"react-scroll-parallax": "^3.5.0"
 	},
 	"devDependencies": {
 		"@eslint/eslintrc": "^3",
